@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   // 👇 ИЗМЕНИТЕ ЭТУ СТРОЧКУ:
   // ssr: false, // УДАЛИТЬ ЭТУ СТРОЧКУ
   // или замените на:
-  ssr: true, // ДЛЯ СТАТИЧЕСКОГО САЙТА
+  ssr: false, // ДЛЯ СТАТИЧЕСКОГО САЙТА
 
   app: {
     baseURL: "/shinritm/",
